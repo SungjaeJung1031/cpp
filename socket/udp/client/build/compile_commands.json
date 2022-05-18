@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/sungjaejung1031/dev/cpp/socket/udp/client/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin21-g++-11   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/client.dir/client.cpp.o -c /Users/sungjaejung1031/dev/cpp/socket/udp/client/client.cpp",
+  "file": "/Users/sungjaejung1031/dev/cpp/socket/udp/client/client.cpp"
+}
+]
