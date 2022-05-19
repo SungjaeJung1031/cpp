@@ -1,0 +1,5 @@
+./socket/udp/client/build
+./socket/cpp-to-python-socket/server/server_cpp
+./socket/cpp-to-python-socket/server/CMakeFiles
+./socket/cpp-to-python-socket/server/CMakeCache.txt
+./socket/cpp-to-python-socket/server/cmkae_install.cmake_install
